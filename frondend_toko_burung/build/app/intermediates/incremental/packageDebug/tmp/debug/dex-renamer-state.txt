@@ -1,0 +1,4 @@
+#Wed Jul 20 14:05:53 ICT 2022
+base.0=D\:\\UAS MOBILE AHID DAN PEBRI\\frondend_toko_burung\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
